@@ -1,6 +1,11 @@
 main: dev.fzz.optimizer.App
 name: Optimizer
-version: 0.1
+version: 1.1.2
 api-version: 1.19
-description: optimized server side chunk rendering
+description: An opinionated server-side chunk renderer that stays true to Vanilla
 prefix: Optimizer
+author: 0xFzz
+commands:
+    xa455:
+      description: --!!INTERNAL DEV DEBUGGER | TREAD CAREFULLY WHEN USING | NOT INTENTED FOR END-USER USE | MAY CORRUPT NEW CHUNKS | YOU HAVE BEEN WARNED!!--
+      usage: usage:USE ONLY FOR DEBUGGING | WORLD CORRUPTION MAY OCCUR | TREAD CAREFULLY | YOU HAVE BEEN WARNED | /<command> [mode] [n]
